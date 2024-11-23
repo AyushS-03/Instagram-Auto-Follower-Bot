@@ -32,5 +32,7 @@ This project is a Python-based Instagram bot that automates the process of loggi
     pip install selenium
 
 3. Download and set up ChromeDriver:
-    • Download ChromeDriver.
-    • Place it in a known location or add it to your system's PATH.
+
+    -   Download ChromeDriver.
+
+    -   Place it in a known location or add it to your system's PATH.
